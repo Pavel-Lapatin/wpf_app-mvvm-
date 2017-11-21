@@ -1,0 +1,68 @@
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\DAL.dll.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\DAL.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\DAL.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\Model.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\Model.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\obj\Debug\DAL.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\obj\Debug\DAL.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\DAL\bin\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\DAL\bin\Debug\DAL.dll.config
+H:\CoursePaper\DAL\bin\Debug\DAL.dll
+H:\CoursePaper\DAL\bin\Debug\DAL.pdb
+H:\CoursePaper\DAL\bin\Debug\EntityFramework.dll
+H:\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\CoursePaper\DAL\bin\Debug\Model.dll
+H:\CoursePaper\DAL\bin\Debug\Model.pdb
+H:\CoursePaper\DAL\bin\Debug\EntityFramework.xml
+H:\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\CoursePaper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\CoursePaper\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\CoursePaper\DAL\obj\Debug\DAL.dll
+H:\CoursePaper\DAL\obj\Debug\DAL.pdb
+H:\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.dll
+H:\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.pdb
+H:\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.xml
+D:\CoursePaper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\CoursePaper\DAL\obj\Debug\DAL.dll
+D:\CoursePaper\DAL\obj\Debug\DAL.pdb
+C:\Users\LPV\Desktop\CoursePaper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LPV\Desktop\CoursePaper\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LPV\Desktop\CoursePaper\DAL\obj\Debug\DAL.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\obj\Debug\DAL.pdb
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\DAL.dll.config
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\DAL.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\DAL.pdb
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\Model.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\Model.pdb
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\DAL.dll.config
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\DAL.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\DAL.pdb
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\Model.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\Model.pdb
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\IEUser\Desktop\CoursePaper\DAL\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\IEUser\Desktop\CoursePaper\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CoursePaper\DAL\obj\Debug\DAL.dll
+C:\Users\IEUser\Desktop\CoursePaper\DAL\obj\Debug\DAL.pdb

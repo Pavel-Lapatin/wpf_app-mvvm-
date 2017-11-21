@@ -1,0 +1,121 @@
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\Repository.dll.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\Repository.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\Repository.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\DAL.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\EntityFramework.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\Model.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\DAL.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\DAL.dll.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\Model.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\EntityFramework.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\obj\Debug\Repository.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\obj\Debug\Repository.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\BCrypt.Net.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\BCrypt.Net.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\Repository\bin\Debug\Repository.dll.config
+H:\CoursePaper\Repository\bin\Debug\Repository.dll
+H:\CoursePaper\Repository\bin\Debug\Repository.pdb
+H:\CoursePaper\Repository\bin\Debug\BCrypt.Net.dll
+H:\CoursePaper\Repository\bin\Debug\DAL.dll
+H:\CoursePaper\Repository\bin\Debug\EntityFramework.dll
+H:\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\CoursePaper\Repository\bin\Debug\Model.dll
+H:\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.dll
+H:\CoursePaper\Repository\bin\Debug\DAL.pdb
+H:\CoursePaper\Repository\bin\Debug\DAL.dll.config
+H:\CoursePaper\Repository\bin\Debug\Model.pdb
+H:\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\Repository\bin\Debug\BCrypt.Net.xml
+H:\CoursePaper\Repository\bin\Debug\EntityFramework.xml
+H:\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\CoursePaper\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+H:\CoursePaper\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+H:\CoursePaper\Repository\obj\Debug\Repository.dll
+H:\CoursePaper\Repository\obj\Debug\Repository.pdb
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.dll
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+H:\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\CoursePaper\Repository\bin\Debug\System.Windows.Interactivity.dll
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.pdb
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.xml
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+H:\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+H:\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Repository.dll.config
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Repository.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Repository.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\BCrypt.Net.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\DAL.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Model.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\DAL.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\DAL.dll.config
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Model.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\BCrypt.Net.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\LPV\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\LPV\Desktop\CoursePaper\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\LPV\Desktop\CoursePaper\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\LPV\Desktop\CoursePaper\Repository\obj\Debug\Repository.dll
+C:\Users\LPV\Desktop\CoursePaper\Repository\obj\Debug\Repository.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Repository.dll.config
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Repository.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Repository.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\BCrypt.Net.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\DAL.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Model.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\DAL.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\DAL.dll.config
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Model.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\BCrypt.Net.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\IEUser\Desktop\CoursePaper\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\IEUser\Desktop\CoursePaper\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CoursePaper\Repository\obj\Debug\Repository.dll
+C:\Users\IEUser\Desktop\CoursePaper\Repository\obj\Debug\Repository.pdb

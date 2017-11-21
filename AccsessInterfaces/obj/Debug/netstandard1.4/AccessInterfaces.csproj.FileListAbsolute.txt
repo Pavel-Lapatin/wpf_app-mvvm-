@@ -1,0 +1,8 @@
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\bin\Debug\netstandard1.4\AccessInterfaces.deps.json
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\bin\Debug\netstandard1.4\AccessInterfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\bin\Debug\netstandard1.4\AccessInterfaces.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\obj\Debug\netstandard1.4\AccessInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\obj\Debug\netstandard1.4\AccessInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\obj\Debug\netstandard1.4\AccessInterfaces.AssemblyInfo.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\obj\Debug\netstandard1.4\AccessInterfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\AccsessInterfaces\obj\Debug\netstandard1.4\AccessInterfaces.pdb

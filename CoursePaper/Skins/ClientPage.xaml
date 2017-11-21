@@ -1,0 +1,155 @@
+﻿<UserControl x:Class="CoursePaper.Skins.ClientPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:cmd="http://www.galasoft.ch/mvvmlight"
+             xmlns:local="clr-namespace:CoursePaper.Skins"
+             mc:Ignorable="d"
+             DataContext="{Binding ClientVM, Source={StaticResource Locator}}">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type DataGridCell}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type DataGridCell}">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="StackButton">
+            <Style.Setters>
+                <Setter Property="Background" Value="Beige"/>
+                <Setter Property="BorderThickness" Value="0"/>
+                <Setter Property="Margin" Value="10,0,10,0"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style.Setters>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="BorderBrush" Value="DarkBlue"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Background">
+                        <Setter.Value>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="Beige" Offset="0"/>
+                                <GradientStop Color="#FFB6A763" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background">
+                        <Setter.Value>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="#FF9B9B5B" Offset="0"/>
+                                <GradientStop Color="#FF786E44" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid Background="Beige">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="120" Width="1*"/>
+            <ColumnDefinition MinWidth="350" Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" Background="LightCoral">
+            <TextBlock Margin="5" TextAlignment="Center" Text="Клиенты"  FontWeight="Bold" FontSize="16" FontFamily="TimeNewRomans" Height="17"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" Height="30">
+            <Button Content="Новая группа"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding AddClientGroup}"/>
+            <Button Content="Исправить группу"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding ChangeClientGroup}"/>
+            <Button Content="Удалить группу"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding DeleteClientGroup}"/>
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+            <Button Content="Добавить"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding AddClient}"/>
+            <Button Content="Удалить"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding ChangeClient}"/>
+            <Button Content="Исправить"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding DeleteClient}"/>
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+            <Button Content="Фильтр"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding Filter}"/>
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+            <Button Content="Печать"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding Print}"/>
+            <Button Content="Обновить"
+                    Style="{StaticResource StackButton}"
+                    Command="{Binding Refresh}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal" DockPanel.Dock="Bottom" Height="30" VerticalAlignment="Center">
+            <TextBlock Text="Поиск по коллонке:" Height="20"/>
+            <ComboBox Height="20">
+                <TextBlock Text="Клиент"/>
+                <TextBlock Text="Моб. телефон"/>
+            </ComboBox>
+        </StackPanel>
+        <DataGrid x:Name="ClientsDataGrid" Grid.Row="2" Grid.Column="1" AutoGenerateColumns="False" ItemsSource="{Binding ClientList}"  Margin="10,10,10,10"
+                  CanUserAddRows="False">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <cmd:EventToCommand Command="{Binding ChangeClient}"
+                                        CommandParameter="{Binding ElementName=ClientsDataGrid, Path=SelectedItem}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <DataGrid.Columns>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Name="MyImage"  Height="24"  Stretch="Fill"/>
+                            <DataTemplate.Triggers>
+                                <DataTrigger Binding="{Binding Path=ResponsibilityStatus}" Value="False">
+                                    <Setter TargetName="MyImage" Property="Source" Value="..\icons\Trustworthy.ico"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Path=ResponsibilityStatus}" Value="True">
+                                    <Setter TargetName="MyImage" Property="Source" Value="..\icons\Untrustworthy.ico"/>
+                                </DataTrigger>
+                            </DataTemplate.Triggers>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Клиент" Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Header="Группа" Binding="{Binding Path=Group.Name}"/>
+                <DataGridTextColumn Header="Моб. телефон" Binding="{Binding Path=MobilePhone}"/>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding Path=Phone}"/>
+                <DataGridTextColumn Header="Адрес" Binding="{Binding Path=Address}"/>
+                <DataGridTextColumn Header="E-Mail" Binding="{Binding Path=Email}"/>
+                <DataGridTextColumn  Header="Менеджер" Binding="{Binding Path=Employee.Name}"/>
+                <DataGridTextColumn Header="Дата и время регистрации" Binding="{Binding Path=RegistrationDate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TreeView Grid.Row="2" Margin="10,10,10,10" ItemsSource="{Binding GroupTree}">
+        </TreeView>
+    </Grid>
+</UserControl>

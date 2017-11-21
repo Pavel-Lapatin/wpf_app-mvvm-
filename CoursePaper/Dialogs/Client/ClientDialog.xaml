@@ -1,0 +1,106 @@
+﻿<Window x:Class="CoursePaper.Dialogs.ClientDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Клиент" Height="480" Width="600" MinHeight="480" MinWidth="600"
+        DataContext="{Binding ClientDlgVM, Source={StaticResource Locator}}">
+    <Grid VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <GroupBox Grid.Row="1" Header="Контактная инфыормация">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Фактический адрес:" Margin="5"/>
+                <Label Grid.Row="1" Content="Телефон:" Margin="5"/>
+                <Label Grid.Row="2" Content="Email:" Margin="5"/>
+                <Label Grid.Row="1" Grid.Column="2" Content="Моб. телефон:" Margin="5" />
+                <TextBox Text="{Binding Path=Client.Address, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Grid.Column="1" Grid.ColumnSpan="3" Margin="5"/>
+                <TextBox Text="{Binding Path=Client.Phone, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Grid.Column="1" Grid.Row="1" Margin="5"/>
+                <TextBox Text="{Binding Path=Client.Email, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="2" Margin="5"/>
+                <TextBox Text="{Binding Path=Client.MobilePhone, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Grid.Column="3" Grid.Row="1" Margin="5"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Grid.Row="2" Header="Паспорт">
+            <Grid VerticalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="63*"/>
+                    <ColumnDefinition Width="63*"/>
+                    <ColumnDefinition Width="63*"/>
+                    <ColumnDefinition Width="124*"/>
+                    <ColumnDefinition Width="94*"/>
+                    <ColumnDefinition Width="173*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Серия:" Margin="5"/>
+                <TextBox Grid.Column="1" Text="{Binding Path=Client.PassportSeria}" Margin="5"/>
+                <Label Content="Дата выдачи:" Grid.Column="4" Margin="5"/>
+                <TextBox Grid.Column="3" Text="{Binding Path=Client.PassportNumber, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Margin="5" />
+                <Label Grid.Column="2"  Content="Номер:" Margin="5"/>
+                <Label Grid.Row="1" Content="Выдан:" Margin="5"/>
+                <TextBox Grid.Row="1" Text="{Binding Path=Client.PassportIssuedBy}" Grid.Column="1" Grid.ColumnSpan="5" Margin="5"/>
+                <DatePicker SelectedDate="{Binding Path=Client.RegistrationDate}" Grid.Column="5" Margin="5" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Клиент">
+            <Grid VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="84*"/>
+                    <ColumnDefinition Width="122*"/>
+                    <ColumnDefinition Width="45*"/>
+                    <ColumnDefinition Width="112*"/>
+                    <ColumnDefinition Width="71*"/>
+                    <ColumnDefinition Width="146*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Content="Фамилия:" Margin="5"/>
+                <TextBox Text="{Binding Path=Client.Name, ValidatesOnExceptions=True, ValidatesOnDataErrors=True}" Grid.ColumnSpan="5" Grid.Column="1" Margin="5"/>
+                <Label Content="Группа:" Grid.Row="1" Margin="5"/>
+                <ComboBox Text="{Binding Path=Client.Group.Name}" ItemsSource="{Binding Path=Groups}" DisplayMemberPath="Name" SelectedItem="{Binding Path=Client.Group}" Grid.ColumnSpan="2" Grid.Column="1" Margin="5" Grid.Row="1" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Grid.Row="3" Header="Дополнительная информация">
+            <Grid VerticalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="193*" />
+                    <ColumnDefinition Width="238*" />
+                    <ColumnDefinition Width="149*" />
+                </Grid.ColumnDefinitions>
+                <TextBox Text="{Binding Path=Client.AdditionalInfo}" Grid.ColumnSpan="3" Margin="5"/>
+                <CheckBox IsChecked="{Binding Path=Client.SMSStatus}" Content="Согласен получать SMS" Grid.Row="1" Margin="5"/>
+                <CheckBox IsChecked="{Binding Path=Client.EmailStatus}" Content="Согласен получать E-mail" Grid.Row="1" Grid.Column="1" Margin="5"/>
+                <CheckBox IsChecked="{Binding Path=Client.ResponsibilityStatus}" Content="Неблагонадежный" Grid.Row="1" Grid.Column="2" Margin="5"/>
+            </Grid>
+        </GroupBox>
+        <StackPanel Orientation="Horizontal" Grid.Row="4" HorizontalAlignment="Right">
+            <Button Command="{Binding OK}"  Content="Оk" HorizontalAlignment="Right" MinWidth="100" Margin="5"/>
+            <Button IsCancel="True" Content="Cancel" HorizontalAlignment="Right" MinWidth="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

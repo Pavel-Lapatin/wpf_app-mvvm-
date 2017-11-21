@@ -1,0 +1,35 @@
+﻿<Window x:Class="CoursePaper.Dialogs.GroupDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CoursePaper.Dialogs"
+        mc:Ignorable="d"
+        Title="Группа" Height="150" Width="300" MinHeight="150" MinWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <GroupBox>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="89*"/>
+                    <ColumnDefinition Width="203*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Родитель" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Width="61"/>
+                <Label Content="Название" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Grid.Row="1" Width="63" RenderTransformOrigin="0.016,0.885"/>
+                <TextBox HorizontalAlignment="Left" Height="23" Margin="9,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="183" Grid.Column="1"/>
+                <TextBox HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="182" Grid.Column="1" Grid.Row="1"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="124,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="76" RenderTransformOrigin="0.441,0.475"/>
+        <Button Content="Cancel" IsCancel="True" HorizontalAlignment="Left" Margin="208,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="74"/>
+
+    </Grid>
+</Window>

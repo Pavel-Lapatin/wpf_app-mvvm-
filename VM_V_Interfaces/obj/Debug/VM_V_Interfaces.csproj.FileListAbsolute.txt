@@ -1,0 +1,38 @@
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csprojResolveAssemblyReference.cache
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.dll
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csprojResolveAssemblyReference.cache
+H:\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csproj.CoreCompileInputs.cache
+H:\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.dll
+H:\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\Model.dll
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\Model.pdb
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.dll
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.pdb
+H:\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\Model.dll
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\Model.pdb
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.pdb
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.dll
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\Model.dll
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\Model.pdb
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.dll
+C:\Users\IEUser\Desktop\CoursePaper\VM_V_Interfaces\obj\Debug\VM_V_Interfaces.pdb

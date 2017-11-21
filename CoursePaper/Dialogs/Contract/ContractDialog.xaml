@@ -1,0 +1,70 @@
+﻿<Window x:Class="CoursePaper.Dialogs.ContractDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CoursePaper.Dialogs"
+        mc:Ignorable="d"
+        Title="{Binding}" MinHeight="700" MinWidth="900"
+        DataContext="{Binding ContractDlgVM, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <TabControl Grid.ColumnSpan="3">
+            <TabItem Header="Реквизиты"/>
+            <TabItem Header="Дополнительно"/>
+            <TabItem Header="Фото"/>
+        </TabControl>
+        <Frame Grid.Row="1" NavigationUIVisibility="Hidden" Content="{Binding FrameSkin}" Grid.ColumnSpan="3"/>
+        <TabControl Grid.Row="2" Grid.ColumnSpan="3">
+            <TabItem Header="Детали"/>
+            <TabItem Header="Выполненные работы"/>
+            <TabItem Header="Оборудование"/>
+            <TabItem Header="Оплаты клиента"/>
+            <TabItem Header="транспортные расходы"/>
+            <TabItem Header="Документы"/>
+        </TabControl>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Grid.ColumnSpan="3">
+            <Button Content="Добавить" Command="{Binding}"/>
+            <Button Content="Исправить" Command="{Binding}"/>
+            <Button Content="Удалить" Command="{Binding}"/>
+        </StackPanel>
+        <ScrollViewer Grid.Row="4" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="3">
+            <DataGrid Margin="5">
+
+            </DataGrid>
+        </ScrollViewer>
+        <TextBlock Grid.Row="5" Background="Azure" Grid.ColumnSpan="3"/>
+        <StackPanel Grid.Row="6" Orientation="Horizontal" VerticalAlignment="Center" Grid.ColumnSpan="3" Margin="0,6,0,7" Height="30">
+            <Button Content="Печать" Margin="5" MinWidth="70"/>
+            <Button Content="Экспорт" Margin="5" MinWidth="70"/>
+            <Button Content="SMS" Margin="5" MinWidth="70"/>
+            <Button Content="E-mail" Margin="5" MinWidth="70"/>
+        </StackPanel>
+        <StackPanel Grid.Row="6" Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="0,6,0,7" Height="30">
+            <Button Content="Ok" Margin="5" MinWidth="70"/>
+            <Button Content="Отмена" Margin="5" MinWidth="70"/>
+            <Button Content="Применить" Margin="5" MinWidth="70"/>
+            <Button Content="История статуса" Margin="5" MinWidth="70"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Right" Orientation="Horizontal" Grid.Column="2" Grid.Row="6" Height="30" Margin="0,6,0,7">
+            <CheckBox Content="архив" VerticalAlignment="Center"/>
+            <StackPanel Orientation="Vertical">
+                <CheckBox Content="не печатать работы"/>
+                <CheckBox Content="не печатать детали"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

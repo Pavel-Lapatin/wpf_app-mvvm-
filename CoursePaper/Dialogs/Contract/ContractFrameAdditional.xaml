@@ -1,0 +1,185 @@
+﻿<Page x:Class="CoursePaper.Dialogs.ContractFrameAdditional"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" ShowsNavigationUI="False" x:Name="ContractDlg">
+    <Page.Resources>
+        <Style TargetType="Button" BasedOn="{StaticResource ResourceKey=DefaultButton}"/>
+        <Style TargetType="TextBox" BasedOn="{StaticResource ResourceKey=DefaultTextBox}"/>
+        <Style TargetType="Label" BasedOn="{StaticResource DefaultLable}"/>
+        <Style TargetType="ComboBox" BasedOn="{StaticResource DefaultComboBox}"/>
+        <Style TargetType="DatePicker" BasedOn="{StaticResource DefaultDatePicker}"/>
+        <Style TargetType="TextBox" x:Key="ScrollTextBox">
+            <Style.Setters>
+                <Setter Property="Margin" Value="2"/>
+                <Setter Property="TextWrapping" Value="Wrap"/>
+                <Setter Property="AcceptsReturn" Value="True"/>
+                <Setter Property="AcceptsTab" Value="True"/>
+                <Setter Property="SpellCheck.IsEnabled" Value="True"/>
+            </Style.Setters>
+        </Style>
+    </Page.Resources>
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <GridSplitter Grid.Row="0" Grid.Column="1" Grid.RowSpan="2" Width="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <GroupBox Header="Стоимость заказа">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Сумма затрат:" Grid.Row="0" Height="26" Margin="2,7"/>
+                <Label Content="Сумма деталей" Grid.Row="1" Height="26" Margin="2,4,2,8"/>
+                <Label Content="Сумма работ" Grid.Row="2" Margin="2,0,2,3" VerticalAlignment="Bottom" Height="26"/>
+                <Label Content="Транспортные расходы" Grid.Row="3" Height="26" Margin="2,4,2,8"/>
+                <Label Foreground="DarkRed" Content="Сумма ремонта" Grid.Row="4" Height="26" Margin="2,3,2,9"/>
+                <Label Content="Скидка" Grid.Row="5" Height="26" Margin="2,4,2,8"/>
+                <Label Content="Сумма скидки" Grid.Row="6" Height="26" Margin="2,3,2,9"/>
+                <Label Foreground="DarkRed" Content="Итого" Grid.Row="7" Height="26" Margin="2,4,2,9"/>
+                <TextBox Grid.Column="1" Margin="5,9" Height="22"/>
+                <TextBox Grid.Row="1" Grid.Column="1" Margin="5,6,5,10" VerticalAlignment="Center" Height="22"/>
+                <TextBox Grid.Row="2" Grid.Column="1" Margin="5,5,5,11" VerticalAlignment="Center" Height="22"/>
+                <TextBox Grid.Row="3" Grid.Column="1" Margin="5,6,5,10" VerticalAlignment="Center" Height="22"/>
+                <TextBox Grid.Row="4" Grid.Column="1" Margin="5,5,5,11" Height="22"/>
+                <TextBox Grid.Row="5" Grid.Column="1" Margin="5,6,5,10" Height="22"/>
+                <TextBox Grid.Row="6" Grid.Column="1" Margin="5,5,5,11" Height="22"/>
+                <TextBox Grid.Row="7" Grid.Column="1" Margin="5,6,5,11" Height="22"/>
+                <Label Grid.Column="2"  Content="Rub" Height="26"></Label>
+                <Label Grid.Column="2" Grid.Row="1" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="2" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="3" Content="Rub" ></Label>
+                <Label Grid.Column="2" Grid.Row="4" Content="Rub" ></Label>
+                <Label Grid.Column="2" Grid.Row="5" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="6" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="7" Content="Rub"></Label>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Дисконтная Карта" Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Дисконтная карта" HorizontalAlignment="Left" Margin="18,5,0,0" VerticalAlignment="Top"/>
+                <Label Grid.Row="1" Content="Сумма карты:" HorizontalAlignment="Left" Margin="18,5,0,0" VerticalAlignment="Top"/>
+                <Label Grid.Row="2" Content="Сумма баллов:" HorizontalAlignment="Left" Margin="18,5,0,0" VerticalAlignment="Top"/>
+                <CheckBox Grid.Row="3" Content="Использовать баллы" HorizontalAlignment="Left" Margin="18,5,0,0" VerticalAlignment="Top"/>
+
+                <ComboBox Grid.Column="1"/>
+                <Button Grid.Column="2" Content="..."/>
+                <TextBox Grid.Row="1" Grid.Column="1"/>
+                <TextBox Grid.Row="2" Grid.Column="1"/>
+                <TextBox Grid.Row="2" Grid.Column="1"/>
+                <TextBox Grid.Row="3" Grid.Column="1"/>
+                <Label Grid.Column="2" Grid.Row="1" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="2" Content="Rub"></Label>
+                <Label Grid.Column="2" Grid.Row="3" Content="Rub"></Label>
+                <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="Открепить карту"/>
+
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Grid.Column="1" Grid.RowSpan="2" Header="Оборудование в ремонте">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="113*"/>
+                    <ColumnDefinition Width="106*"/>
+                </Grid.ColumnDefinitions>
+                <CheckBox VerticalAlignment="Center" Content="Принято:" Grid.Row="0" Margin="0,12"/>
+                <Label Content="Принял" Grid.Row="1" Margin="2,7"/>
+                <CheckBox VerticalAlignment="Center" Content="Выдано:" Grid.Row="2" Margin="0,12"/>
+                <Label Content="Выдал" Grid.Row="3" Margin="2,7"/>
+                <Label Content="Отправлено в СЦ:" Grid.Row="4" Margin="2,7"/>
+                <Label Content="Прибыло в СЦ:" Grid.Row="5" Margin="2,7"/>
+                <Label Content="Сервисный центр" Grid.Row="6" Margin="2,7"/>
+                <Label Content="Тип Ремонта" Grid.Row="7" Margin="2,7"/>
+                <Label Content="Срок ремонта" Grid.Row="8" Margin="2,7"/>
+                <Label Content="Мастер" Grid.Row="9" Margin="2,7" />
+
+                <DatePicker Grid.Row="0" Grid.Column="1" Margin="2,8"/>
+                <DockPanel  Grid.Row="1" Grid.Column="1">
+                    <Button DockPanel.Dock="Right" Content="..." MinWidth="30"></Button>
+                    <TextBox DockPanel.Dock="Left"></TextBox>
+                </DockPanel>
+                <DatePicker Grid.Row="2" Grid.Column="1" Margin="2,8"/>
+                <DockPanel  Grid.Row="3" Grid.Column="1">
+                    <Button DockPanel.Dock="Right" Content="..." MinWidth="30"></Button>
+                    <TextBox DockPanel.Dock="Left"></TextBox>
+                </DockPanel>
+                <DatePicker Grid.Row="4" Grid.Column="1" Margin="2,8"/>
+                <DatePicker Grid.Row="5" Grid.Column="1" Margin="2,8"/>
+                <ComboBox Grid.Row="6" Grid.Column="1" Margin="2,9"/>
+                <ComboBox Grid.Row="7" Grid.Column="1" Margin="2,9"/>
+                <DatePicker Grid.Row="8" Grid.Column="1" Margin="2,8"/>
+                <DockPanel  Grid.Row="9" Grid.Column="1">
+                    <Button DockPanel.Dock="Right" Content="..." MinWidth="30"></Button>
+                    <TextBox DockPanel.Dock="Left"></TextBox>
+                </DockPanel>
+            </Grid>
+        </GroupBox>
+        <DockPanel Grid.Column="2" Grid.RowSpan="2">
+            <GroupBox DockPanel.Dock="Bottom">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <CheckBox VerticalAlignment="Center" Content="Звонок клиенту"/>
+                    <DatePicker Grid.Column="1"/>
+                </Grid>
+                
+            </GroupBox>
+            <GroupBox DockPanel.Dock="Top" Header="Комментарии">
+                <ScrollViewer VerticalScrollBarVisibility="Visible" Margin="5">
+                    <TextBox Style="{StaticResource ScrollTextBox}"/>
+                </ScrollViewer>
+            </GroupBox>
+            
+        </DockPanel>
+        
+    </Grid>
+</Page>
+

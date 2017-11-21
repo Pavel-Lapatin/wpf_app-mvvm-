@@ -1,0 +1,123 @@
+﻿<UserControl x:Class="CoursePaper.Skins.ContractPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:cmd="http://www.galasoft.ch/mvvmlight"
+             xmlns:local="clr-namespace:CoursePaper.Skins"
+             mc:Ignorable="d" 
+             DataContext="{Binding ContractVM, Source={StaticResource Locator}}">
+    <UserControl.Resources>
+        <Style TargetType="Button" x:Key="StackButton">
+            <Style.Setters>
+                <Setter Property="Background" Value="Beige"/>
+                <Setter Property="BorderThickness" Value="0"/>
+                <Setter Property="Margin" Value="10,0,10,0"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style.Setters>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="BorderBrush" Value="DarkBlue"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Background">
+                        <Setter.Value>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="Beige" Offset="0"/>
+                                <GradientStop Color="#FFB6A763" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background">
+                        <Setter.Value>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="#FF9B9B5B" Offset="0"/>
+                                <GradientStop Color="#FF786E44" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid Background="Beige">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" Background="LightCoral">
+            <TextBlock Margin="5" TextAlignment="Center" Text="{Binding Test1}"  FontWeight="Bold" FontSize="16" FontFamily="TimeNewRomans" Height="17"/>
+        </StackPanel>
+        <TabControl Name="ContractType" Grid.Row="1" Grid.RowSpan="4" Background="Beige">
+            <i:Interaction.Triggers>
+            <i:EventTrigger EventName="SelectionChanged">
+                <cmd:EventToCommand Command="{Binding ChooseContractByItType}"
+                                        CommandParameter="{Binding ElementName=ContractType}"/>
+            </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <TabItem Header="Все Заказы"/>
+            <TabItem Header="В ремонте"/>
+            <TabItem Header="Готовые"/>
+            <TabItem Header="Ожидают запчастей"/>
+            <TabItem Header="На согласовании"/>
+            <TabItem Header="По гарантии"/>
+        </TabControl>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" Height="30">
+            <Button Command="{Binding AddContract}" Style="{StaticResource StackButton}" Content="Новый заказ"/>
+            <Button Style="{StaticResource StackButton}" Content="Копировать"/>
+            <Button Style="{StaticResource StackButton}" Content="Исправить"/>
+            <Button Style="{StaticResource StackButton}" Content="Просмотр"/>
+            <Button Style="{StaticResource StackButton}" Content="Удалить"/>
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+            <Button Style="{StaticResource StackButton}" Content="Фильтр"/>
+            <Button Style="{StaticResource StackButton}" Content="Выборка"/>
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+            <Button Style="{StaticResource StackButton}" Content="Печать"/>
+            <Button Style="{StaticResource StackButton}" Content="Обновить"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" DockPanel.Dock="Bottom" Height="30" VerticalAlignment="Center">
+            <TextBlock Text="Поиск по коллонке:" Height="20"/>
+            <ComboBox Height="20">
+                <TextBlock Text="Заказы"/>
+                <TextBlock Text="Моб. телефон"/>
+            </ComboBox>
+        </StackPanel>
+        <ScrollViewer Grid.Row="3" Grid.Column="0" 
+                      ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                      ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <DataGrid Margin="10,10,10,10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header=""/>
+                    <DataGridTextColumn Header=""/>
+                    <DataGridTextColumn Header="Статус заказа"/>
+                    <DataGridTextColumn Header="Дата приема"/>
+                    <DataGridTextColumn Header="Дата выдачи"/>
+                    <DataGridTextColumn Header="№ Заказа"/>
+                    <DataGridTextColumn Header="Штрих Код"/>
+                    <DataGridTextColumn Header="Затраты"/>
+                    <DataGridTextColumn Header="Сумма"/>
+                    <DataGridTextColumn Header="Клиент"/>
+                    <DataGridTextColumn Header="Мобильный телефон"/>
+                    <DataGridTextColumn Header="Телефон"/>
+                    <DataGridTextColumn Header="Тип устройства"/>
+                    <DataGridTextColumn Header="производитель"/>
+                    <DataGridTextColumn Header="Модель"/>
+                    <DataGridTextColumn Header="Серийный номер"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

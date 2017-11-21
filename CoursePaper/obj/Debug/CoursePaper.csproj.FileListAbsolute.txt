@@ -1,0 +1,431 @@
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.config
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\CoursePaper.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.CodeAnalysisLog.xml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.lastcodeanalysissucceeded
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\System.Windows.Interactivity.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csprojResolveAssemblyReference.cache
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\MainWindow.baml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Skins\MainSkin.baml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\MainWindow.g.cs
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\App.g.cs
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.cache
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.lref
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\App.baml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.g.resources
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.Properties.Resources.resources
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.GenerateResource.Cache
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoreCompileInputs.cache
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.exe
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.pdb
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.DataGrid.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.g.cs
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.g.cs
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.baml
+c:\users\lpv\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\ClientDialog.g.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\ContractDialog.g.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\RequisiteContractPage.g.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\DAL.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\EntityFramework.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\DAL.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\DAL.dll.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\EntityFramework.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\ClientDialog.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\ContractDialog.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\RequisiteContractPage.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\AdditionalContractPage.g.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\AdditionalContractPage.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\FrameContractPage.g.cs
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\Dialogs\FrameContractPage.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\StyleDictionary.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoursePaper.exe.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Model.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Model.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Repository.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Repository.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\Repository.dll.config
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.xml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.baml
+C:\Users\LPV\documents\visual studio 2017\Projects\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.g.cs
+H:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.config
+H:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe
+H:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.CodeAnalysisLog.xml
+H:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.lastcodeanalysissucceeded
+H:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.dll
+H:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.dll
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.dll
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Model.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Repository.dll
+H:\CoursePaper\CoursePaper\bin\Debug\System.Windows.Interactivity.dll
+H:\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.DataGrid.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.Toolkit.dll
+H:\CoursePaper\CoursePaper\bin\Debug\DAL.dll
+H:\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.dll
+H:\CoursePaper\CoursePaper\bin\Debug\Model.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\Repository.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\Repository.dll.config
+H:\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.xml
+H:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.xml
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.xml
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+H:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\CoursePaper\CoursePaper\bin\Debug\DAL.pdb
+H:\CoursePaper\CoursePaper\bin\Debug\DAL.dll.config
+H:\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.xml
+H:\CoursePaper\CoursePaper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csprojResolveAssemblyReference.cache
+H:\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\RequisiteContractPage.baml
+H:\CoursePaper\CoursePaper\obj\Debug\MainWindow.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Skins\MainSkin.baml
+H:\CoursePaper\CoursePaper\obj\Debug\App.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\AdditionalContractPage.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\ClientDialog.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\ContractDialog.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\FrameContractPage.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\RequisiteContractPage.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\MainWindow.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\App.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.cache
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.lref
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\AdditionalContractPage.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\ClientDialog.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\ContractDialog.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\FrameContractPage.baml
+H:\CoursePaper\CoursePaper\obj\Debug\StyleDictionary.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.baml
+H:\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.baml
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.g.resources
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.Properties.Resources.resources
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.GenerateResource.Cache
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoreCompileInputs.cache
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.exe
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.pdb
+H:\CoursePaper\CoursePaper\obj\Debug\ImageDictionary.baml
+H:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoursePaper.exe.config
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupDialog.g.cs
+H:\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupDialog.baml
+D:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.config
+D:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe
+D:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.CodeAnalysisLog.xml
+D:\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.lastcodeanalysissucceeded
+D:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.dll
+D:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.dll
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.dll
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Model.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Repository.dll
+D:\CoursePaper\CoursePaper\bin\Debug\System.Windows.Interactivity.dll
+D:\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\CoursePaper\CoursePaper\bin\Debug\DAL.dll
+D:\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.dll
+D:\CoursePaper\CoursePaper\bin\Debug\Model.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\Repository.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\Repository.dll.config
+D:\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.xml
+D:\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.xml
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.xml
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CoursePaper\CoursePaper\bin\Debug\DAL.pdb
+D:\CoursePaper\CoursePaper\bin\Debug\DAL.dll.config
+D:\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.xml
+D:\CoursePaper\CoursePaper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csprojResolveAssemblyReference.cache
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoursePaper.exe.config
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.baml
+D:\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.baml
+D:\CoursePaper\CoursePaper\obj\Debug\ImageDictionary.baml
+D:\CoursePaper\CoursePaper\obj\Debug\MainWindow.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Skins\MainSkin.baml
+D:\CoursePaper\CoursePaper\obj\Debug\App.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\MainWindow.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\App.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.cache
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.lref
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.baml
+D:\CoursePaper\CoursePaper\obj\Debug\StyleDictionary.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.baml
+D:\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.baml
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.g.resources
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.Properties.Resources.resources
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.GenerateResource.Cache
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.exe
+D:\CoursePaper\CoursePaper\obj\Debug\CoursePaper.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csprojResolveAssemblyReference.cache
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoursePaper.exe.config
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.exe
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.config
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.CodeAnalysisLog.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.lastcodeanalysissucceeded
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Model.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Model.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.dll.config
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.pdb
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.dll.config
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.xml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\ImageDictionary.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\MainWindow.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\MainSkin.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\App.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\MainWindow.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\App.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.cache
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.lref
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\StyleDictionary.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.baml
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.g.resources
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.Properties.Resources.resources
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.GenerateResource.Cache
+C:\Users\LPV\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.config
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.CodeAnalysisLog.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\CoursePaper.exe.lastcodeanalysissucceeded
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Model.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Model.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Repository.dll.config
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\VM_V_Interfaces.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.pdb
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\DAL.dll.config
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\BCrypt.Net.xml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.CoursePaper.exe.config
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\ImageDictionary.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\MainWindow.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\MainSkin.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\App.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Client\ClientDialog.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractFrameAdditional.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\Page1.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\SpareParts\SparePartsDialog.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\EmployeeLoginDialog.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\RequisiteContractPage.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\App.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.cache
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper_MarkupCompile.lref
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\Contract\ContractDialog.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Dialogs\GroupClient\GroupDialog.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\StyleDictionary.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ClientPage.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\Skins\ContractPage.baml
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.g.resources
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.Properties.Resources.resources
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.exe
+C:\Users\IEUser\Desktop\CoursePaper\CoursePaper\obj\Debug\CoursePaper.pdb
